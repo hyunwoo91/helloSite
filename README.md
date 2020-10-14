@@ -2,5 +2,7 @@
 
 
 
-
+```text
+sudo apt-get install git
+```
 
